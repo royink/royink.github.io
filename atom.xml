@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.royink.li</id>
+    <id>https://royink.github.io</id>
     <title>墨</title>
-    <updated>2021-05-24T04:19:12.367Z</updated>
+    <updated>2021-05-24T04:19:41.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.royink.li"/>
-    <link rel="self" href="https://blog.royink.li/atom.xml"/>
-    <logo>https://blog.royink.li/images/avatar.png</logo>
-    <icon>https://blog.royink.li/favicon.ico</icon>
+    <link rel="alternate" href="https://royink.github.io"/>
+    <link rel="self" href="https://royink.github.io/atom.xml"/>
+    <logo>https://royink.github.io/images/avatar.png</logo>
+    <icon>https://royink.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 墨</rights>
     <entry>
         <title type="html"><![CDATA[零]]></title>
-        <id>https://blog.royink.li/post/zero/</id>
-        <link href="https://blog.royink.li/post/zero/">
+        <id>https://royink.github.io/post/zero/</id>
+        <link href="https://royink.github.io/post/zero/">
         </link>
         <updated>2021-05-24T04:18:38.000Z</updated>
         <content type="html"><![CDATA[<p>从零开始，但说实话已经失去了写作的欲望，在bitcron过期之后，决定迁移到免费的服务。但是又无暇搬运，索性从头开始，之前的文章随缘补。</p>
