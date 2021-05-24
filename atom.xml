@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://royink.li</id>
     <title>墨</title>
-    <updated>2021-05-24T04:41:42.650Z</updated>
+    <updated>2021-05-24T09:02:32.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://royink.li"/>
     <link rel="self" href="https://royink.li/atom.xml"/>
@@ -16,6 +16,15 @@
         </link>
         <updated>2021-05-24T04:18:38.000Z</updated>
         <content type="html"><![CDATA[<p>从零开始，但说实话已经失去了写作的欲望，在bitcron过期之后，决定迁移到免费的服务。但是又无暇搬运，索性从头开始，之前的文章随缘补。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日氣象觀察]]></title>
+        <id>https://royink.li/post/bye/</id>
+        <link href="https://royink.li/post/bye/">
+        </link>
+        <updated>2017-07-13T14:31:38.000Z</updated>
+        <content type="html"><![CDATA[<p>晚上九點多的時候，突降暴雨。</p>
 ]]></content>
     </entry>
 </feed>
